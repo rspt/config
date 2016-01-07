@@ -1,0 +1,3 @@
+# RSPT Config
+
+Copy the files (some are hidden) to the correct places to have default config files for things like VIM, Git...

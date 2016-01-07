@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	name = rspt
+	email = julien@rspt.ch
+[push]
+	default = simple
+[core]
+	excludesfile = /Users/rspt/.gitignore

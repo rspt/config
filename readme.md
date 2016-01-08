@@ -8,6 +8,9 @@ cp .gitconfig ~
 cp .vimrc ~
 ```
 
+## Git & Gitignore
+You can found more relevant Gitignore file here: [https://github.com/github/gitignore](https://github.com/github/gitignore)
+
 ## ZSH
 ```
 ZSH_THEME='agnoster'

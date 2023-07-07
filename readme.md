@@ -17,6 +17,7 @@ ZSH_THEME='agnoster'
 plugins=(git last-working-dir sudo common-aliases colored-man zsh-syntax-highlighting)
 ```
 
+For the agnoster theme, follow the installation recommendations: [https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster)
 
 ## License
 
